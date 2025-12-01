@@ -23,10 +23,9 @@ This project provides a simple web API that analyzes the sentiment of a given te
    - explanation
 
 ---
+ Installation (Local)
 
-## 📦 Installation (Local)
-
-### 1️⃣ Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/Xaanie/sentiment-api.git
 cd sentiment-api
