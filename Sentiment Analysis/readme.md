@@ -4,7 +4,7 @@ This project provides a simple web API that analyzes the sentiment of a given te
 
 ---
 
-## 🚀 Features
+ Features
 
 - LangChain + LLM sentiment analysis
 - FastAPI endpoint: `/analyze-sentiment`
@@ -14,7 +14,7 @@ This project provides a simple web API that analyzes the sentiment of a given te
 
 ---
 
-## 🧠 How It Works
+  How It Works
 
 1. User sends text to `/analyze-sentiment`
 2. LangChain prompts an LLM to evaluate sentiment
@@ -28,5 +28,5 @@ This project provides a simple web API that analyzes the sentiment of a given te
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/sentiment-api.git
+git clone https://github.com/Xaanie/sentiment-api.git
 cd sentiment-api
